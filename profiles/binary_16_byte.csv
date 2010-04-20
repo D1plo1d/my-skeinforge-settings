@@ -1,0 +1,13 @@
+Format is tab separated binary 16 byte settings.
+Name                          	Value
+WindowPosition	3+48
+WindowVisibilities
+Open File to be Converted to Binary 16 Byte	
+Feed Rate Step Length (millimeters/second)	0.1
+File Extension:	bin
+X Offset (millimeters)	0.0
+Y Offset (millimeters)	0.0
+Z Offset (millimeters)	0.0
+X Step Length (millimeters)	0.1
+Y Step Length (millimeters)	0.1
+Z Step Length (millimeters)	0.01

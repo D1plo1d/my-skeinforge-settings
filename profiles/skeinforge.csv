@@ -1,0 +1,10 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	536+57
+WindowVisibilities
+Open File for Skeinforge	/home/rob/parts/new/Small_Toy_Elephant.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

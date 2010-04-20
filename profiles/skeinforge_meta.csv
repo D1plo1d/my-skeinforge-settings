@@ -1,0 +1,6 @@
+Format is tab separated skeinforge meta settings.
+Name                          	Value
+WindowPosition	3+48
+WindowVisibilities
+description	False
+polyfile	True
