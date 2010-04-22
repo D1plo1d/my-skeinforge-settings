@@ -1,0 +1,10 @@
+Format is tab separated skeinforge settings.
+Name                          	Value
+WindowPosition	619+57
+WindowVisibilities
+Open File for Skeinforge	/home/rob/Desktop/9_reprap_python_beanshell/models/Screw Holder.gts
+analyze	True
+craft	False
+help	False
+meta	False
+profile	False
