@@ -15,7 +15,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	True
+fill	False
 fillet	False
 flow	False
 home	False
@@ -38,5 +38,5 @@ temperature	False
 tower	False
 unpause	False
 whittle	False
-widen	False
+widen	True
 wipe	False
