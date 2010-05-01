@@ -7,7 +7,7 @@ Activate Fill:	True
 Diaphragm Period (layers):	100
 Diaphragm Thickness (layers):	0
 Extra Shells on Alternating Solid Layer (layers):	1
-Extra Shells on Base (layers):	2
+Extra Shells on Base (layers):	1
 Extra Shells on Sparse Layer (layers):	1
 Grid Extra Overlap (ratio):	0.25
 Grid Junction Separation Band Height (layers):	10
@@ -20,7 +20,7 @@ Infill Odd Layer Extra Rotation (degrees):	90.0
 Grid Hexagonal	False
 Grid Rectangular	False
 Line	True
-Infill Perimeter Overlap (ratio):	0.3
+Infill Perimeter Overlap (ratio):	0.8
 Infill Solidity (ratio):	0.4
 Infill Width over Thickness (ratio):	1.5
 Solid Surface Thickness (layers):	3
