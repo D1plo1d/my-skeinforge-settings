@@ -2,4 +2,4 @@ Format is tab separated extrusion settings.
 Name                          	Value
 WindowPosition	0+400
 WindowVisibilities
-Profile Selection:	PLA_Bowden
+Profile Selection:	PLA_Mendel_Extruder

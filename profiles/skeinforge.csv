@@ -1,10 +1,10 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
-WindowPosition	151+25
+WindowPosition	152+52
 WindowVisibilities
 Open File for Skeinforge	/home/rob/parts/mendel/frame-vertex_with_foot.stl
 analyze	False
-craft	False
+craft	True
 help	False
 meta	False
-profile	True
+profile	False
