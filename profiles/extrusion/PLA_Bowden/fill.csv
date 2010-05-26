@@ -20,7 +20,7 @@ Infill Odd Layer Extra Rotation (degrees):	90.0
 Grid Hexagonal	False
 Grid Rectangular	False
 Line	True
-Infill Perimeter Overlap (ratio):	0.8
+Infill Perimeter Overlap (ratio):	0.3
 Infill Solidity (ratio):	0.4
 Infill Width over Thickness (ratio):	1.5
 Solid Surface Thickness (layers):	3

@@ -4,4 +4,4 @@ WindowPosition	0+0
 WindowVisibilities
 Open File for Home	
 Activate Home	True
-Name of Homing File:	homing.gcode
+Name of Homing File:	homing_bowden.gcode

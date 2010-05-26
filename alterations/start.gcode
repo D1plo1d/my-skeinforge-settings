@@ -10,7 +10,9 @@ G92 E0; zero the extruded length
 ;wipe
 G0 X60 Y5 Z0; move to pre-wipe position and proceed to spooge
 M109 S190; warm up extruder
-G1 X60 Y5 Z0 F3000.0 E1000.0; feed for start of next move + extruder dwell
+G1 X60 F8000
+G1 X60 Y5 Z0 F8000.0 E10000.0; feed for start of next move + extruder dwell
+G1 X60 F3000
 G1 X30 Y5 Z0 F3000.0; wipe the nozel and reset the feedrate
 
 ;Re-home X and Y for build
